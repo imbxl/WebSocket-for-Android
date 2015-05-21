@@ -40,7 +40,7 @@ $ cordova plugin add cordova-plugin-websocket
 ```
 If using other old versions:
 ```sh
-$ cordova plugin add https://github.com/knowledgecode/WebSocket-for-Android.git
+$ cordova plugin add https://github.com/imbxl/WebSocket-for-Android.git
 ```
 
 #### Caveats
